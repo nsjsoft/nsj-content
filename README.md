@@ -32,7 +32,7 @@
 ```
 [Google](http://www.google.com "구글")
 [1. Headers 헤더](#1-headers-헤더)
-- [x] 체크하자
+- [x] ✅ 체크하자
 - [ ] 
 
 테이블 생성
